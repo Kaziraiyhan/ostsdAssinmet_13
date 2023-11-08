@@ -1,0 +1,10 @@
+.naveitem {
+  margin: 0 10px;
+}
+.naveitem a {
+  color: #ddd;
+  transition: all 0.3s ease;
+}
+.naveitem a:hover {
+  color: #fff;
+}
